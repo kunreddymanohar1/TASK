@@ -1,0 +1,8 @@
+type,category,subcategory,amount,date
+income,food,Restarent,20000.0,2025-05-04
+expense,travel,Bus,250.0,2025-03-12
+income,Shop,Medical,30000.0,2025-11-21
+income,travel,bus,300.0,2025-12-13
+income,food,Shop,35000.0,2024-07-25
+expense,travel,bike,100.0,2025-08-31
+income,salary,bouns,10000.0,2023-05-17
